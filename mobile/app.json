@@ -1,0 +1,27 @@
+﻿{
+  "expo": {
+    "name": "Habitly",
+    "slug": "habitly",
+    "scheme": "habitly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0b1220"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0b1220"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
